@@ -56,6 +56,12 @@ This is my new repository containing the stuff that I did when I started learnin
   - ^
   - \>>
   - <<
+  ### FileTestOperators.sh
+  This file contains details about operators used to check particular properties of files:
+  - Exists
+  - Read/Write/Execute permissions
+  - Character file/ Block file
+  - Null file
    
 ## Conditional Statements
   ### IfCondition.sh
