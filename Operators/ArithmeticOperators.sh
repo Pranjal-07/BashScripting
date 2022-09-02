@@ -4,6 +4,7 @@
 ** - Power
 % - Modulo
 +=, -=, *=, /=, %= - Increment, Decrement, Multiply, Divide, Modulo a number by a constant
+--, ++ - Decrement and Increment Operators
 COMMENTS
 
 # Double Parenthesis to perform basic arithmetic operation
@@ -39,3 +40,8 @@ echo $z
 # Divide
 let "x/=5"
 echo $x
+
+echo "Input the value of x: "
+read -p 'x = ' x
+((++x))
+echo "Value after incrementing x is: $x"
