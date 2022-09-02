@@ -1,5 +1,7 @@
 # BASH SCRIPT
 This is my new repository containing the stuff that I did when I started learning Bash Scripting.
+
+##Introduction
 ### Intro.sh
   This is the first file which contains details about the following topics:
   - Bash Comments
@@ -28,6 +30,8 @@ This is my new repository containing the stuff that I did when I started learnin
   - Use of $1 $2 $3 .... to access the passed arguments
   - Use of $@
   - Use of $#
+  ### Sleep.sh
+  This file shows the use of sleep command to pause the execution of script for a specified duration.
     
   
    
