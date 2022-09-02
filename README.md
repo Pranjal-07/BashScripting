@@ -32,6 +32,9 @@ This is my new repository containing the stuff that I did when I started learnin
   - Use of $#
   ### Sleep.sh
   This file shows the use of sleep command to pause the execution of script for a specified duration.
-    
+ 
+## Operators
+  ### ArithmeticOperators.sh
+  This file contains the basic arithmetic operators used in Bash Scripting
   
    
