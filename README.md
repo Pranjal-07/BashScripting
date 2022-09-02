@@ -38,5 +38,22 @@ This is my new repository containing the stuff that I did when I started learnin
   This file contains the basic arithmetic operators used in Bash Scripting. The following things are covered:
   - Double Parenthesis Method
   - Using let command
-  
+  ### RelationalOperators.sh
+  This file contains the basic realtional operators used in Bash Scripting.
+  - == and !=
+  - < and <=
+  - > and >=
+  ### LogicalOperators.sh
+  This file contains the basic logical operators used in Bash Scripting.
+  - &&
+  - ||
+  - !
+  ### BitwiseOperators.sh
+  This file contains the basic bitwise operators used in Bash Scripting.
+  - &
+  - |
+  - !
+  - ^
+  - >>
+  - <<
    
