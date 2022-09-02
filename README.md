@@ -16,4 +16,12 @@ This is my new repository containing the stuff that I did when I started learnin
   - Use of -p flag (for accepting input in same line)
   - Use of -sp flag (for accepting silent input)
   - Use of -a flag (for accepting an array of values)
+### DateFormat.sh
+  This is the file that contains the various format options available for date Command. A glimpse of it is given below:
+  - Extracting month
+  - Extracting year
+  - Extracting weekday
+  - Extracting time related stuff
+  - Extracting timezone
+  
    
