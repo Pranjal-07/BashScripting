@@ -35,6 +35,8 @@ This is my new repository containing the stuff that I did when I started learnin
  
 ## Operators
   ### ArithmeticOperators.sh
-  This file contains the basic arithmetic operators used in Bash Scripting
+  This file contains the basic arithmetic operators used in Bash Scripting. The following things are covered:
+  - Double Parenthesis Method
+  - Using let command
   
    
