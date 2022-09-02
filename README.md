@@ -72,3 +72,6 @@ This is my new repository containing the stuff that I did when I started learnin
   - nested if
   ### BashCase.sh
   This file conatains the use of case statements (switch case in other languages) in Bash for applying the conditions.
+## Practice Scripts
+  ### AppendText.sh
+  This file contains the Bash script to append a piece of text at the end of a file.
