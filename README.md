@@ -42,7 +42,7 @@ This is my new repository containing the stuff that I did when I started learnin
   This file contains the basic realtional operators used in Bash Scripting.
   - == and !=
   - < and <=
-  - > and >=
+  - `>` and >=
   ### LogicalOperators.sh
   This file contains the basic logical operators used in Bash Scripting.
   - &&
@@ -54,6 +54,6 @@ This is my new repository containing the stuff that I did when I started learnin
   - |
   - !
   - ^
-  - >>
+  - `>>`
   - <<
    
