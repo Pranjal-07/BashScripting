@@ -23,5 +23,11 @@ This is my new repository containing the stuff that I did when I started learnin
   - Extracting weekday
   - Extracting time related stuff
   - Extracting timezone
+  ### PassingArguments.sh
+  This file contains details about passing arguments in the script. It shows the use of:
+  - Use of $1 $2 $3 .... to access the passed arguments
+  - Use of $@
+  - Use of $#
+    
   
    
