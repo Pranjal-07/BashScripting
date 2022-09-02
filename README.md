@@ -57,3 +57,12 @@ This is my new repository containing the stuff that I did when I started learnin
   - \>>
   - <<
    
+## Conditional Statements
+  ### IfCondition.sh
+  This file contains details about using conditional statements in Bash with various types of if statements:
+  - if then
+  - if else
+  - if elif else
+  - nested if
+  ### BashCase.sh
+  This file conatains the use of case statements (switch case in other languages) in Bash for applying the conditions.
