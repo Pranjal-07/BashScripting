@@ -25,8 +25,16 @@ echo | awk '{print atan2(1.0, 1.0)}'
 myVar=`echo | awk '{print 1.1+2.2}'`
 echo $myVar
 
-# Making the use of perl command for dealing with floating point numbers.
+# Making the use of perl programming language for dealing with floating point numbers.
 perl -e 'print 1.1 + 2.9'
 echo
 myVar2=`perl -e 'print 1 + 2.4'`
 echo $myVar2
+
+# Making the use of python programming language for dealing with floating point numbers.
+
+python -c 'print (1.1 + 2.8)'
+myVar3=`python -c 'print (1 + 2.5)'`
+echo $myVar3
+
+# We can also use Ruy language to perform the same operations.
