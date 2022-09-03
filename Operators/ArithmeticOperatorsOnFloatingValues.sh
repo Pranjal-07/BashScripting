@@ -37,4 +37,4 @@ python -c 'print (1.1 + 2.8)'
 myVar3=`python -c 'print (1 + 2.5)'`
 echo $myVar3
 
-# We can also use Ruy language to perform the same operations.
+# We can also use Ruby language to perform the same operations.
