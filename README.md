@@ -38,6 +38,12 @@ This is my new repository containing the stuff that I did when I started learnin
   This file contains the basic arithmetic operators used in Bash Scripting. The following things are covered:
   - Double Parenthesis Method
   - Using let command
+  ### ArithmeticOperatorsOnFloatingValues.sh
+  This file contains the usage of arithmatic operators on floating point numbers. The three ways in which this can be done are discussed:
+  - Using bc command
+  - Using awk command
+  - Using Perl
+  - Using Python
   ### RelationalOperators.sh
   This file contains the basic realtional operators used in Bash Scripting.
   - == and !=
@@ -75,3 +81,5 @@ This is my new repository containing the stuff that I did when I started learnin
 ## Practice Scripts
   ### AppendText.sh
   This file contains the Bash script to append a piece of text at the end of a file.
+  ### CheckCharacter.sh
+  This file uses Bash Case to check if a character entered by a user is uppercase, lowercase, a number or a symbol.
