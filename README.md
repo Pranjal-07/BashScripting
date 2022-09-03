@@ -43,6 +43,7 @@ This is my new repository containing the stuff that I did when I started learnin
   - Using bc command
   - Using awk command
   - Using Perl
+  - Using Python
   ### RelationalOperators.sh
   This file contains the basic realtional operators used in Bash Scripting.
   - == and !=
