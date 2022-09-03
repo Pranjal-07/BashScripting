@@ -1,4 +1,5 @@
 # Appending output to the end of a text file.
+# First we need to create a file with 'touch file_name' command.
 echo -e "Enter the name of the file: \c"
 read file_name
 
