@@ -24,3 +24,9 @@ echo | awk '{print cos(1.0)}'
 echo | awk '{print atan2(1.0, 1.0)}'
 myVar=`echo | awk '{print 1.1+2.2}'`
 echo $myVar
+
+# Making the use of perl command for dealing with floating point numbers.
+perl -e 'print 1.1 + 2.9'
+echo
+myVar2=`perl -e 'print 1 + 2.4'`
+echo $myVar2
