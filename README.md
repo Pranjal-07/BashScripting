@@ -1,7 +1,7 @@
 # BASH SCRIPT
 This is my new repository containing the stuff that I did when I started learning Bash Scripting.
 
-
+\
 ## Introduction
   ### Intro.sh
   This is the first file which contains details about the following topics:
