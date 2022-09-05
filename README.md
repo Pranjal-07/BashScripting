@@ -107,6 +107,18 @@ This is my new repository containing the stuff that I did when I started learnin
   - Simple select loop
   - Use of select loop with Bash Case
   
+## Strings
+  ### Basic.sh
+  This file contains basic operations performed on strings like:
+  - Comparing two strings
+  - Finding length of string
+  - Checking for null string
+  ### Split.sh
+  This file contains the methods by which we can split a string. Splitting can be done based on a blank space or a symbol.
+  ### Concatenate.sh
+  This file contains the methods used to concatenate or join two strings.
+  ### Substring.sh
+  This file contains various ways of partitioning a string based upon the starting index and the length of resulting string.
   
 ## Practice Scripts
   ### AppendText.sh
