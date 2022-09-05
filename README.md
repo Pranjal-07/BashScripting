@@ -1,6 +1,7 @@
 # BASH SCRIPT
 This is my new repository containing the stuff that I did when I started learning Bash Scripting.
 
+
 ## Introduction
   ### Intro.sh
   This is the first file which contains details about the following topics:
@@ -32,6 +33,7 @@ This is my new repository containing the stuff that I did when I started learnin
   - Use of $#
   ### Sleep.sh
   This file shows the use of sleep command to pause the execution of script for a specified duration.
+ 
  
 ## Operators
   ### ArithmeticOperators.sh
@@ -69,6 +71,7 @@ This is my new repository containing the stuff that I did when I started learnin
   - Character file/ Block file
   - Null file
    
+   
 ## Conditional Statements
   ### IfCondition.sh
   This file contains details about using conditional statements in Bash with various types of if statements:
@@ -78,6 +81,7 @@ This is my new repository containing the stuff that I did when I started learnin
   - nested if
   ### BashCase.sh
   This file conatains the use of case statements (switch case in other languages) in Bash for applying the conditions.
+  
   
 ## Loops
   ### ForLoop.sh
@@ -94,14 +98,15 @@ This is my new repository containing the stuff that I did when I started learnin
   - break and continue with while loop
   - infinite while loop
   - reading a file with while loop
-  ### Until loop
+  ### UntilLoop.sh
   This file contains the use of until loop and its difference with the while loop
   - Simple until loop
   - Until loop with multiple conditions
-  ### Select loop
+  ### SelectLoop.sh
   This file contains the use of select loop and its applications.
   - Simple select loop
   - Use of select loop with Bash Case
+  
   
 ## Practice Scripts
   ### AppendText.sh
