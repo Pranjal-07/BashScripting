@@ -78,6 +78,31 @@ This is my new repository containing the stuff that I did when I started learnin
   - nested if
   ### BashCase.sh
   This file conatains the use of case statements (switch case in other languages) in Bash for applying the conditions.
+  
+## Loops
+  ### ForLoop.sh
+  This file contains the use of for loop in its various syntax.
+  - Simple for loop
+  - C-style for loop
+  - break and continue with for loop
+  - infinite for loop
+  - executing commands with for loop
+  ### WhileLoop.sh
+  This file contains the use of while loop in its various syntax.
+  - Simple while loop
+  - C-style while loop
+  - break and continue with while loop
+  - infinite while loop
+  - reading a file with while loop
+  ### Until loop
+  This file contains the use of until loop and its difference with the while loop
+  - Simple until loop
+  - Until loop with multiple conditions
+  ### Select loop
+  This file contains the use of select loop and its applications.
+  - Simple select loop
+  - Use of select loop with Bash Case
+  
 ## Practice Scripts
   ### AppendText.sh
   This file contains the Bash script to append a piece of text at the end of a file.
